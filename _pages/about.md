@@ -8,31 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-**Wei Wang**
-
-
-Ph.D. Candidate  
-          
-Department of Finance 
-     
-Kelley School of Business 
- 
-Indiana University         
-           
-		   
-		   
-Kelley School of Business 
- 
-1275 E. 10th Street     
-   
- Bloomington, IN 47405     
-
-                            
- Email: ww18@iu.edu  
- 
- Calendly                   
-​
+Welcome! I am a PhD candidate in Finance from Kelley School of Business, Indiana University. My academic work is on asset pricing theory, machine learning, and information economics. 
 
                  
                  
