@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wei Wang / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Wei Wang"
 description              : &description "personal description"
 url                      : https://weiwangfinance.github.io # the base hostname & protocol for your site e.g. "https://weiwangfinance.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Bloomington, IN, USA"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weiwangfin"
+  github           : "weiwangfinance"
   google_plus      :
   keybase          :
   instagram        :
