@@ -8,7 +8,7 @@ author_profile: true
 # Working Papers
 
 
-* [Information Market and Asset Pricing (2022, Job Market Paper)](/homepage/files/jmp.pdf)
+* [Learning Costs and Information Quality: Why Do We Disagree? (2022, Job Market Paper)](/homepage/files/jmp.pdf)
 
 *Abstract*: I study asset prices and portfolio choice in an exchange economy with an information market. Investors are heterogeneous in learning costs when using signals of different qualities. Information providers decide the quality and price of signals. In equilibrium, ex-ante homogeneous information providers voluntarily differentiate in their signal quality. The market equilibrium is not socially optimal. The information heterogeneity gap is overly large.  In the social optimum, low-quality information investors could trade more actively and security price volatility could be higher.
 
