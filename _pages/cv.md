@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV](/files/res.pdf)
+[CV](/homepage/files/res.pdf)
 
 {% include base_path %}
 
