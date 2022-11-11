@@ -8,13 +8,13 @@ author_profile: true
 # Working Papers
 
 
-* Information Market and Asset Pricing (2022, Job Market Paper)
+* [Information Market and Asset Pricing (2022, Job Market Paper)](/homepage/files/jmp.pdf)
 
 *Abstract*: I study asset prices and portfolio choice in an exchange economy with an information market. Investors are heterogeneous in learning costs when using signals of different qualities. Information providers decide the quality and price of signals. In equilibrium, ex-ante homogeneous information providers voluntarily differentiate in their signal quality. The market equilibrium is not socially optimal. The information heterogeneity gap is overly large.  In the social optimum, low-quality information investors could trade more actively and security price volatility could be higher.
 
 
 
-* Do Investors Overreact to Managerial Tones? (2021)
+* [Do Investors Overreact to Managerial Tones? (2021)](/homepage/files/ch2.pdf)
 
 *Abstract*: This paper investigates whether investors overreact to managerial tones in the text of annual reports. Using a machine learning technique on topic analysis, I conduct a decomposition of managerial tones on multiple topics (signals), which are informative about different aspects of firms' value (fundamentals). Focusing on 10-Ks of SP500 constituents, I find the market reacts more to signals which are precise about future fundamentals, indicating that investors extract value-related information from tones while ignoring text uncorrelated with fundamentals. A simple structural model of trading shows that while naive investors overestimate excess returns by 2.75 basis points on average, investors' overreaction pushes up the filing period buy-and-hold excess return by only 0.03 basis points. Cross-sectional analysis shows that overreaction is most salient for high market valuation firms and medium-size ones. The results support the view that investors are not overreacting to managerial tones.
 
