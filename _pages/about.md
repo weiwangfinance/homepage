@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 
-Welcome! I am a PhD candidate in finance from the Kelley School of Business, Indiana University. My research is mainly on asset pricing theory, information economics, and machine learning. 
+Welcome! I am a PhD candidate in finance from the Kelley School of Business, Indiana University. My research is mainly on asset pricing, investment, machine learning, and social media. 
 
+I am on the 2022-2023 academic job market. 
 
-![Drag Racing](indiana-university.jpg)
+![Drag Racing](kelley.jpg)
 
 
 
