@@ -13,7 +13,7 @@ Welcome! I am a PhD candidate in finance from the Kelley School of Business, Ind
 
 I am on the 2022-2023 academic job market. 
 
-![Drag Racing](kelley.jpg)
+![Drag Racing](indiana-university.jpg)
 
 
 
