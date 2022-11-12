@@ -16,7 +16,7 @@ author_profile: true
 
 * [Do Investors Overreact to Managerial Tones? (2021)](/homepage/files/ch2.pdf)
 
-*Abstract*: This paper investigates whether investors overreact to managerial tones in the text of annual reports. Using a machine learning technique on topic analysis, I conduct a decomposition of managerial tones on multiple topics (signals), which are informative about different aspects of firms' value (fundamentals). Focusing on 10-Ks of SP500 constituents, I find the market reacts more to signals which are precise about future fundamentals, indicating that investors extract value-related information from tones while ignoring text uncorrelated with fundamentals. A simple structural model of trading shows that while naive investors overestimate excess returns by 2.75 basis points on average, investors' overreaction pushes up the filing period buy-and-hold excess return by only 0.03 basis points. Cross-sectional analysis shows that overreaction is most salient for high market valuation firms and medium-size ones. The results support the view that investors are not overreacting to managerial tones.
+*Abstract*: This paper investigates whether investors overreact to managerial tones. I conduct a topical decomposition of managerial tones using a topic analysis technique. Using texts in 10-Ks, I find the market has a higher reaction to informative tones. This indicates that investors are selective in processing public information. With a structural model, I show that investors' overreaction pushes the excess return by 0.03 basis points. The cross-sectional analysis demonstrates that overreaction is most salient for high-market valuation firms. 
 
 
 
