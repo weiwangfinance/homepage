@@ -23,9 +23,9 @@ author_profile: true
 
 # Working in Progress
 
-* "Twitter Bots, Corporations and Financial Markets" (2020), with Anthony Cookson (UColorado), Juhani Linnainmaa (Dartmouth), Alessandro Previtero (Indiana), and Filippo Menczer (Indiana) 
+* "Twitter Bots, Corporations and Financial Markets" (2022), with Anthony Cookson (UColorado), Juhani Linnainmaa (Dartmouth), Alessandro Previtero (Indiana), and Filippo Menczer (Indiana) 
 
-*Abstract*: Social media play a significant role in shaping public opinions and beliefs. This paper provides novel evidence about strategical use of automated accounts (bots) in option markets. Using a twitter-bot detector developed by Observatory on Social Media (OSoMe), BotometerLite, we find that twitter bot activity clusters around options' expirations. This strategy generates a short-lived change in underlying stock prices. Our results demonstrate that artificial intelligence can be used to manipulate stock prices.
+*Abstract*: Social media play a significant role in shaping public opinions and beliefs. This paper provides novel evidence about strategical use of automated accounts (bots) in option markets. Using a twitter-bot detector developed by Observatory on Social Media (OSoMe), BotometerLite, we find that twitter bot activity clusters around options' expirations. This strategy generates a short-lived change in underlying stock prices. 
 
 * "Portfolio Liquidity and Mutual Fund Performance" (2021), with Charles Trzcinka (Indiana) 
 
