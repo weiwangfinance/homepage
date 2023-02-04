@@ -15,4 +15,5 @@ redirect_from:
 * [AEA Webinar Series](https://www.aeaweb.org/resources/online-seminars)
 * [Bendheim Center for Finance](https://bcf.princeton.edu/events/upcoming-events/?series=578)
 * [Utpal Bhattacharya: 2019 FMA Annual Meeting Doctoral Consortium Presentation ](https://www.youtube.com/watch?v=cWDniGfMsHU)
+* [My Personal Blog](https://weiwangfin.github.io/blog/)
  
