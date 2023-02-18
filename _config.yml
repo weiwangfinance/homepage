@@ -47,7 +47,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   : "https://weiwangfinance.github.io/homepage/"
+  path                   : "https://weiwangfin.github.io/blog/"
 
 # SEO Related
 google_site_verification :
@@ -85,7 +85,7 @@ author:
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Bloomington, IN, USA"
   employer         : 
-  pubmed           : "https://weiwangfin.github.io/blog/"
+  pubmed           : #"https://weiwangfin.github.io/blog/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/wei-kenneth-wang-4a6489175/"
   orcid            : "http://orcid.org/0000-0002-7492-3524"
   pinterest        :
   soundcloud       :
