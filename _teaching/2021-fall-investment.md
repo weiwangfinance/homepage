@@ -1,5 +1,5 @@
 ---
-title: "BUS-F420 Equity & Fixed Income Investment"
+title: "Equity & Fixed Income Investment"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-investment
