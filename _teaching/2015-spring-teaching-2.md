@@ -1,9 +1,0 @@
----
-title: "BUS-F420 Equity & Fixed Income Investment (Summer 2022)"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2022-summer-investment
-venue: "Indiana University, Kelley School of Business, Finance"
-date: 2022-06-01
-location: "Bloomington, IN, US"
----
