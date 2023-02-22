@@ -8,13 +8,13 @@ author_profile: true
 # Working Papers
 
 
-* [Learning Costs and Information Quality: Why Do We Disagree? (2022, Job Market Paper)](/homepage/files/jmp.pdf)
+* Learning Costs and Information Quality: Why Do We Disagree? (2022, Job Market Paper)
 
 *Abstract*: I study asset prices and portfolio choices in an exchange economy with an information market. Two providers decide the information quality and price. I demonstrate that when investors are heterogeneous in the costs of using information, an equilibrium exists where ex-ante homogeneous information producers differentiate ex post. This equilibrium is not socially optimal. The quality heterogeneity and disagreement volatility are too high. The impacts on stock prices are asymmetric when the information quality gap enlarges. When low-quality information deteriorates, the stock price volatility is lower. When high-quality information improves, the stock price volatility is higher. Stock price volatility negatively correlates with disagreement volatility ceteris paribus. 
 
 
 
-* [Do Investors Overreact to Managerial Tones? (2021)](/homepage/files/ch2.pdf)
+* Do Investors Overreact to Managerial Tones? (2021)
 
 *Abstract*: This paper investigates whether investors overreact to managerial tones. I conduct a topical decomposition of managerial tones using a topic analysis technique. Using texts in 10-Ks, I find the market has a higher reaction to informative tones. This indicates that investors are selective in processing public information. With a structural model, I show that investors' overreaction pushes the excess return by 0.03 basis points. The cross-sectional analysis demonstrates that overreaction is most salient for high-market valuation firms. 
 
