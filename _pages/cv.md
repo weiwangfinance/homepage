@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Finance, Indiana University, US, 2023 (expected)
+* Ph.D. in Finance, Indiana University, US, 2023
 * M.A. Economics, Tsinghua University, China, 2018
 * B.A. Economics & B.S. Applied Mathematics, Wuhan University, China, 2015
 
