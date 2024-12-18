@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome! I am a PhD candidate in finance from the Kelley School of Business, Indiana University. My research is mainly on asset pricing, investment, machine learning, and social media. 
+Welcome! I am a assistant professor of finance from Chinese University of Hong Kong (Shenzhen). My research is mainly on asset pricing, investment, machine learning, and social media. 
 
 ![Drag Racing](cuhk_shenzhen.jpg)
 
